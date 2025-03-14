@@ -9,7 +9,7 @@ Backend development (Databases, Authentication, API design)<br>      Advanced Ja
 ## 💬 Ask Me About<br>      
 JavaScript, React, HTML, CSS<br>      APIs, SQLAlchemy, Python projects<br>      UI/UX for web applications<br><br>
 ## ⚡ Fun Fact<br>      
-💡 I love solving coding challenges and can build a full project in a week when inspired!<br><br>
+💡 I'm a goofy person...<br><br>
 
 
 ## 🌐 Socials:
