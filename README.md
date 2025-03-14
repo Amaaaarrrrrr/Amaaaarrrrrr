@@ -1,14 +1,14 @@
 # 💫 About Me:
 💻 I am a Software Developer | Web Enthusiast | Problem Solver<br><br>
-# 🤝 Looking to Collaborate<br>       
+## 🤝 Looking to Collaborate<br>       
 -Open-source projects<br>       -Innovative web apps<br>       -Python CLI tools<br><br>
-# 🔍 Looking for Help With<br>      
+## 🔍 Looking for Help With<br>      
 Backend architecture & database optimization<br><br>
-# 🌱 Currently Learning<br>     
+## 🌱 Currently Learning<br>     
 Backend development (Databases, Authentication, API design)<br>      Advanced JavaScript & React best practices<br><br>
-# 💬 Ask Me About<br>      
+## 💬 Ask Me About<br>      
 JavaScript, React, HTML, CSS<br>      APIs, SQLAlchemy, Python projects<br>      UI/UX for web applications<br><br>
-# ⚡ Fun Fact<br>      
+## ⚡ Fun Fact<br>      
 💡 I love solving coding challenges and can build a full project in a week when inspired!<br><br>
 
 
