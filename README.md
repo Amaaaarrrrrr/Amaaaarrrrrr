@@ -11,6 +11,8 @@ JavaScript, React, HTML, CSS<br>      APIs, SQLAlchemy, Python projects<br>     
 ## ⚡ Fun Fact<br>      
 💡 I'm a goofy person...<br><br>
 
+## 🌐 Portfolio:
+[https://my-portfolio-gamma-one-68.vercel.app/](https://my-portfolio-gamma-one-68.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joy-mutanu-93022a248/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mutsjoy1693@gmail.com) 
